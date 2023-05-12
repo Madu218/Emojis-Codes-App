@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Emojis Code</string>
+    <string name="emojiDisplay">😍</string>
+    <string name="app_description">Find easily all the Emojis codes you need!</string>
+    <string name="placeholder">Type a Emoji...</string>
+    <string name="search_button">Search</string>
+    <string name="unicode">U+1F60D</string>
+    <string name="html_entity"><![CDATA[&#x1F60D;]]></string>
+</resources>
